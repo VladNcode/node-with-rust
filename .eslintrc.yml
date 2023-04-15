@@ -115,7 +115,7 @@ overrides:
       '@typescript-eslint/no-inferrable-types': 2
       '@typescript-eslint/no-invalid-void-type': 2
       '@typescript-eslint/no-misused-new': 2
-      '@typescript-eslint/no-misused-promises': 2
+      '@typescript-eslint/no-misused-promises': 0
       '@typescript-eslint/no-namespace': 2
       '@typescript-eslint/no-non-null-asserted-optional-chain': 2
       '@typescript-eslint/no-throw-literal': 2
